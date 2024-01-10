@@ -13,7 +13,6 @@ Este repositorio contiene el código fuente para una calculadora remota implemen
 
 - **`tcpmpser.java`**: Código fuente del servidor que implementa la calculadora remota.
 - **`tcpmpcli.java`**: Código fuente del cliente para interactuar con el servidor.
-- **`README.md`**: Este archivo, proporciona una descripción general del repositorio.
 
 ## Instrucciones de Uso
 
