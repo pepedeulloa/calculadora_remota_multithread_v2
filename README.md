@@ -37,7 +37,7 @@ Para ejecutar el cliente en modo UDP, utiliza el siguiente comando en la termina
 java tcpmpcli -u <ip_servidor> <puerto>
 ```
 
-### Comandos del Cliente
+#### Comandos del Cliente
 El cliente acepta operaciones aritméticas en el siguiente formato:
 
 ```bash
